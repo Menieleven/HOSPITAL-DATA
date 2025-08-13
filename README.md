@@ -1,5 +1,5 @@
 
-# PROJECT TITLE: # HOSPITAL-DATA
+# PROJECT TITLE:  HOSPITAL-DATA
 ## PROJECT OVERVIEW:
 This project gives detailed documentation of Hospital Patient Data.
 
